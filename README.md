@@ -3,5 +3,5 @@ There are only 12 days of Christmas this year so I would imagine progress will b
 
 ***
 
-**01** - modular arithmetic, floor division
-**02** - string slicing, indexing, and comparison
+1. Modular arithmetic, floor division
+2. String slicing, indexing, and comparison
