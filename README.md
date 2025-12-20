@@ -10,3 +10,4 @@ There are only 12 days of Christmas this year so I would imagine progress will b
 5. Combinations, ranges of numbers, intersecting ranges
 6. Column-wise data input. Removing last character or word
 7. Paths, recursion, depth first search, memoisation
+8. Sets, 3D points and distances
